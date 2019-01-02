@@ -1,0 +1,7 @@
+{
+    "navigationBarTitleText": "顶部标题",
+    "enablePullDownRefresh": true,
+    "backgroundColor":"#eee",
+    "navigationBarBackgroundColor":"#f00",
+    "navigationBarTextStyle":"white"
+}

@@ -1,6 +1,6 @@
-# qqbb
+# xcx-mpvue
 
-> 千牵
+> mpvue框架demo
 
 ## Build Setup
 
